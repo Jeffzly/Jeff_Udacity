@@ -1,3 +1,4 @@
 # ignore my python project
-*.py
 *.csv
+*.png
+*.pdf
