@@ -1,4 +1,11 @@
 # ignore my python project
+<<<<<<< HEAD
 *.csv
 *.png
 *.pdf
+||||||| e9355d6... Add the bikeshare description and add the ignore for csv files.
+*.py
+*.csv
+=======
+*.py
+>>>>>>> parent of e9355d6... Add the bikeshare description and add the ignore for csv files.
