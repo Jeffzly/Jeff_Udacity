@@ -15,7 +15,7 @@ washington.csv
 bikeshare.py
 
 ### Credits
-Below are the review from the Udacity reviewer:
+Below are the review from the Udacity:
 
 :) Hi there! You did an excellent job in this submission. I like your work. Congratulations on completing the project. I wish you all the best in the future study.
 
